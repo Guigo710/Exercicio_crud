@@ -1,0 +1,18 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: blueviolet;
+}
+
+#lista li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+#lista button {
+    margin-left: 5px;
+}
+#btnAdd {
+    color: blue !important
+}
