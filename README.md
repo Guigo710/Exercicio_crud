@@ -20,8 +20,8 @@ There is no backend or database integration — data is handled directly in the 
 
 ## ✍️ Funcionalidades | Features
 
-- **Create / Criar** — cadastrar novos clientes  
-- **Read / Ler** — visualizar a lista de clientes cadastrados  
+- **Criar** — cadastrar novos clientes  
+- **Ler** — visualizar a lista de clientes cadastrados  
 - Interface simples e intuitiva  
 - Manipulação de dados usando JavaScript puro  
 
@@ -53,7 +53,7 @@ Exercicio-crud/
 └── README.md         # Documentação / Documentation
 ---
 
-## 🚀 Como funciona | How it works
+### 🚀 Como funciona | How it works
 
 1. Preencha os campos **Nome**, **E-mail** e **Data de Nascimento**.  
    Fill in the **Name**, **Email**, and **Birth Date** fields.
@@ -70,7 +70,7 @@ Exercicio-crud/
 5. Os dados permanecem salvos mesmo após fechar o navegador.  
    The data remains saved even after closing the browser.
 ---
-🎯 Objetivos de aprendizado | Learning goals
+### 🎯 Objetivos de aprendizado | Learning goals
 Criar formulários com HTML
 Build forms with HTML
 
