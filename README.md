@@ -46,9 +46,12 @@ There is no backend or database integration — data is handled directly in the 
 
 Exercicio-crud/
 ├── index.html        # Página principal / Main page
+
 ├── estilos.css   # Estilos da interface / Interface styles
+
 ├── js/
 │   └── script.js     # Lógica do CRUD / CRUD logic
+
 └── README.md         # Documentação / Documentation 
 
 
