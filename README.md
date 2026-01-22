@@ -44,13 +44,14 @@ There is no backend or database integration — data is handled directly in the 
 
 ## 📁 Estrutura do projeto | Project structure
 
-Exercicio-crud/
+
 ├── index.html        # Página principal / Main page
 
 ├── estilos.css   # Estilos da interface / Interface styles
 
 ├── js/
-│   └── script.js     # Lógica do CRUD / CRUD logic
+
+   └── script.js     # Lógica do CRUD / CRUD logic
 
 └── README.md         # Documentação / Documentation 
 
