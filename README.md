@@ -44,53 +44,49 @@ There is no backend or database integration — data is handled directly in the 
 
 ## 📁 Estrutura do projeto | Project structure
 
-```text
 Exercicio-crud/
 ├── index.html        # Página principal / Main page
 ├── estilos.css   # Estilos da interface / Interface styles
 ├── js/
 │   └── script.js     # Lógica do CRUD / CRUD logic
-└── README.md         # Documentação / Documentation
+└── README.md         # Documentação / Documentation 
+
+
 
 ---
 
 ## 🚀 Como funciona | How it works
 
-### 🇧🇷 Português
+1. Preencha os campos **Nome**, **E-mail** e **Data de Nascimento**.  
+   Fill in the **Name**, **Email**, and **Birth Date** fields.
+ pq essa parte nao separa com uma linha e fica todo junto
+2. Clique em **Salvar Cliente** para cadastrar.  
+   Click **Save Client** to register the client.
 
-1. Preencha os campos **Nome**, **E-mail** e **Data de Nascimento**.
-2. Clique em **Salvar Cliente** para cadastrar.
-3. O cliente aparece na lista logo abaixo.
-4. Utilize as opções **Editar** ou **Excluir** para gerenciar os registros.
-5. Os dados permanecem salvos mesmo após fechar o navegador.
+3. O cliente aparece na lista logo abaixo.  
+   The client appears in the list below.
 
-### 🇺🇸 English
+4. Utilize as opções **Editar** ou **Excluir** para gerenciar os registros.  
+   Use the **Edit** or **Delete** options to manage the records.
 
-1. Fill in the **Name**, **Email**, and **Birth Date** fields.
-2. Click **Save Client** to register.
-3. The client appears in the list below.
-4. Use the **Edit** or **Delete** options to manage records.
-5. Data remains saved even after closing the browser.
+5. Os dados permanecem salvos mesmo após fechar o navegador.  
+   The data remains saved even after closing the browser.
 
 ---
 
+## 🎯 Objetivos de aprendizado | Learning goals
+Criar formulários com HTML
+Build forms with HTML
 
-## 🎯 Objetivos de Aprendizado | Learning Goals
+Manipular o DOM com JavaScript
+Manipulate the DOM with JavaScript
 
-### 🇧🇷 Português
-- Criar formulários com HTML
-- Manipular o DOM com JavaScript
-- Aplicar estilos com CSS
-- Entender a lógica básica de CRUD no front-end
-- Trabalhar com LocalStorage
-- Publicar projetos no Vercel
+Aplicar estilos com CSS
+Apply styles with CSS
 
-### 🇺🇸 English
-- Build forms with HTML
-- Manipulate the DOM with JavaScript
-- Apply styles with CSS
-- Understand basic front-end CRUD logic
-- Work with LocalStorage
-- Deploy projects on Vercel
+Entender a lógica básica de CRUD no front-end
+Understand basic front-end CRUD logic
 
+Publicar projetos no Vercel
+Deploy projects on Vercel
 ---
