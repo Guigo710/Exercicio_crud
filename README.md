@@ -54,7 +54,7 @@ Exercicio-crud/
 
 ---
 
-### 🚀 Como funciona | How it works
+## 🚀 Como funciona | How it works
 
 1. Preencha os campos **Nome**, **E-mail** e **Data de Nascimento**.  
    Fill in the **Name**, **Email**, and **Birth Date** fields.
@@ -73,7 +73,7 @@ Exercicio-crud/
 
 ---
 
-### 🎯 Objetivos de aprendizado | Learning goals
+## 🎯 Objetivos de aprendizado | Learning goals
 Criar formulários com HTML
 Build forms with HTML
 
