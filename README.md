@@ -51,6 +51,7 @@ Exercicio-crud/
 ├── js/
 │   └── script.js     # Lógica do CRUD / CRUD logic
 └── README.md         # Documentação / Documentation
+
 ---
 
 ### 🚀 Como funciona | How it works
@@ -69,7 +70,9 @@ Exercicio-crud/
 
 5. Os dados permanecem salvos mesmo após fechar o navegador.  
    The data remains saved even after closing the browser.
+
 ---
+
 ### 🎯 Objetivos de aprendizado | Learning goals
 Criar formulários com HTML
 Build forms with HTML
