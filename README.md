@@ -56,35 +56,41 @@ Exercicio-crud/
 
 ## 🚀 Como funciona | How it works
 
-1. Preencha os campos **Nome**, **E-mail** e **Data de Nascimento**.  
-   Fill in the **Name**, **Email**, and **Birth Date** fields.
+### 🇧🇷 Português
 
-2. Clique em **Salvar Cliente** para cadastrar.  
-   Click **Save Client** to register the client.
+1. Preencha os campos **Nome**, **E-mail** e **Data de Nascimento**.
+2. Clique em **Salvar Cliente** para cadastrar.
+3. O cliente aparece na lista logo abaixo.
+4. Utilize as opções **Editar** ou **Excluir** para gerenciar os registros.
+5. Os dados permanecem salvos mesmo após fechar o navegador.
 
-3. O cliente aparece na lista logo abaixo.  
-   The client appears in the list below.
+### 🇺🇸 English
 
-4. Utilize as opções **Editar** ou **Excluir** para gerenciar os registros.  
-   Use the **Edit** or **Delete** options to manage the records.
-
-5. Os dados permanecem salvos mesmo após fechar o navegador.  
-   The data remains saved even after closing the browser.
+1. Fill in the **Name**, **Email**, and **Birth Date** fields.
+2. Click **Save Client** to register.
+3. The client appears in the list below.
+4. Use the **Edit** or **Delete** options to manage records.
+5. Data remains saved even after closing the browser.
 
 ---
 
-## 🎯 Objetivos de aprendizado | Learning goals
-Criar formulários com HTML
-Build forms with HTML
 
-Manipular o DOM com JavaScript
-Manipulate the DOM with JavaScript
+## 🎯 Objetivos de Aprendizado | Learning Goals
 
-Aplicar estilos com CSS
-Apply styles with CSS
+### 🇧🇷 Português
+- Criar formulários com HTML
+- Manipular o DOM com JavaScript
+- Aplicar estilos com CSS
+- Entender a lógica básica de CRUD no front-end
+- Trabalhar com LocalStorage
+- Publicar projetos no Vercel
 
-Entender a lógica básica de CRUD no front-end
-Understand basic front-end CRUD logic
+### 🇺🇸 English
+- Build forms with HTML
+- Manipulate the DOM with JavaScript
+- Apply styles with CSS
+- Understand basic front-end CRUD logic
+- Work with LocalStorage
+- Deploy projects on Vercel
 
-Publicar projetos no Vercel
-Deploy projects on Vercel
+---
