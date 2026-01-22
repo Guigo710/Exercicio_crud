@@ -52,7 +52,8 @@ Exercicio-crud/
 │   └── script.js     # Lógica do CRUD / CRUD logic
 └── README.md         # Documentação / Documentation
 
-### 🚀 Como funciona | How it works
+
+## 🚀 Como funciona | How it works
 
 1. Preencha os campos **Nome**, **E-mail** e **Data de Nascimento**.  
    Fill in the **Name**, **Email**, and **Birth Date** fields.
